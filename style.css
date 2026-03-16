@@ -1,0 +1,21 @@
+	<meta charset="UTF-8">
+	
+.foto1 {
+	width: 200px;
+	border-radius: 20px;
+}
+.foto2 {
+	width: 570px;
+	border-radius: 20px;
+}
+.foto3 {
+	width: 350px;
+	border-radius: 20px;
+	height: auto;
+	position:absolute; 
+	top:90px; 
+	left:680px
+}
+		
+		
+		
